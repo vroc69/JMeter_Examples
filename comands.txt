@@ -1,0 +1,5 @@
+// Path to execute
+C:\Globant\Instaladores\apache-jmeter-5.6.2\bin>
+
+// command to genearte html report
+jmeter -n -t C:\Globant\Testing\JMeter\DemoJMeter.jmx -l C:\Globant\Testing\JMeter\DemoJMeter.cvs -e -o C:\Globant\Testing\JMeter\reports
